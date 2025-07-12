@@ -54,10 +54,6 @@ ul {
 li {
     margin-bottom: 8px;
 }
-a {
-    color: blue;
-    
-}
 
 
 @media (max-width: 768px) {
