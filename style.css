@@ -23,9 +23,7 @@ body {
     color: rgb(22, 21, 21);
 }
 footer {
-    margin-top: auto;
-    background: blue;
-    color: white;
+    margin-top: auto
     padding: 20px;
 }   
 .content {
